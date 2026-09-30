@@ -4,6 +4,8 @@ A privacy-first cybersecurity investigation portfolio lab built by [Sujal K Rao]
 
 **Connect:** [GitHub](https://github.com/sujalrao061) · [LinkedIn](https://www.linkedin.com/in/sujal-rao-709069432)
 
+**Live demo:** [traceguard-kappa.vercel.app](https://traceguard-kappa.vercel.app/)
+
 ![TraceGuard security workspace](traceguard-amethyst-dashboard.png)
 
 ## Quick start
