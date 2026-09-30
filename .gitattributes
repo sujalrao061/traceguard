@@ -1,0 +1,5 @@
+# Keep source and documentation consistent across Windows, macOS, and Linux.
+* text=auto eol=lf
+
+# Preserve binary assets exactly as committed.
+*.png binary
