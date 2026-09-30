@@ -17,6 +17,7 @@
 *.der
 .sites-runtime/
 .openai/
+.vercel/
 *.log
 logs/
 
